@@ -2,3 +2,7 @@ print('This is ocr from hichem')
 
 print('This is ocr from main 2 ')
 
+print("None")
+
+
+print ("Another")
